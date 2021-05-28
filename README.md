@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ARD7989
 - 👀 I’m interested in programming and trading
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 reachme on gmail : reddyabhilash630@gmail.com
 
 <!---
